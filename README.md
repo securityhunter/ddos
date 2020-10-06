@@ -1,11 +1,11 @@
 <h1 align="center">XerXes</h1>
 <p align="center">
-  The Most Powerful DoS tool
+  The Most Powerful DDoS tool
 </p>
 
 ### CLONE
 ```
-# git clone https://github.com/CyberXCodder/XerXes.git
+# https://github.com/securityhunter/ddos.git
 ```
 
 ### COMPILE
