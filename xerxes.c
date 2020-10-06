@@ -12,7 +12,7 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 
-printf("this tool coded by security hunter keral ethical hacking team");
+
        
  
 int make_socket(char *host, char *port) {
